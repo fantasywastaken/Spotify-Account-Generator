@@ -1,0 +1,11 @@
+{
+    "threads": 3,
+    "target": 10,
+    "proxy": {
+        "enabled": false,
+        "host": "",
+        "port": 6060,
+        "username": "",
+        "password": ""
+    }
+}
